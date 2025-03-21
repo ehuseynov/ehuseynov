@@ -1,8 +1,7 @@
+<h1 align="center">Hi 👋, I'm Emil Huseynov</h1>
 <h3 align="center">As a fourth-year Computer Engineering student at Istanbul Technical University (ITU), I specialize in Artificial Intelligence (AI), Machine Learning (ML), and software development, with a strong interest in economics and finance. Through coursework and projects, I’ve gained hands-on experience building software, analyzing data, and creating AI/ML models for trend prediction and process automation.</h3>
 
 - 🔭 I’m currently working on **Tripletables**
-
-- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **huseynove21@itu.edu.tr**
 
@@ -17,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehuaseynov&show_icons=true&locale=en&layout=compact" alt="ehuaseynov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehuaseynov&show_icons=true&locale=en" alt="ehuaseynov" /></p>
-
