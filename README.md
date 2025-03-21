@@ -35,7 +35,7 @@
 - Love exploring complex challenges to create automated, data-driven solutions
 
 ## 🔭 Current Focus
-- **Working on:** [Tripletables](https://github.com/ehuseynov?tab=repositories) (a specialized project under development)
+- **Working on:** [Tripletables]
 - **Exploring:** Advanced neural network architectures with TensorFlow/Keras, finance-related ML models, and data engineering pipelines
 
 ## 💼 Experience
