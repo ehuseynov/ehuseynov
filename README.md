@@ -1,14 +1,94 @@
-<h1 align="center">Hi 👋, I'm Emil Huseynov</h1>
-<h3 align="center">As a fourth-year Computer Engineering student at Istanbul Technical University (ITU), I specialize in Artificial Intelligence (AI), Machine Learning (ML), and software development, with a strong interest in economics and finance. Through coursework and projects, I’ve gained hands-on experience building software, analyzing data, and creating AI/ML models for trend prediction and process automation.</h3>
+<!-- Example: README.md -->
 
-- 🔭 I’m currently working on **Tripletables**
+<h1 align="center">Hi there, I'm Emil Huseynov! 👋</h1>
 
-- 📫 How to reach me **huseynove21@itu.edu.tr**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/emil.huseyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emil.huseyn" height="30" width="40" /></a>
+<p align="center">
+  <em>
+    Fourth-year Computer Engineering Student at Istanbul Technical University (ITU) <br />
+    Passionate about AI, ML, Software Development, Economics & Finance
+  </em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Badges for convenience; feel free to swap icon links or remove if you prefer plain text. -->
+  <a href="mailto:huseynove21@itu.edu.tr">
+    <img src="https://img.shields.io/badge/Email-huseynove21%40itu.edu.tr-informational?style=flat-square" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/emil-huseynov-20b431220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EmilHuseynov-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ehuseynov" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@ehuseynov-lightgrey?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/emil.huseyn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@emil.huseyn-ff69b4?style=flat-square&logo=instagram" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+- **Computer Engineering Student** at <strong>Istanbul Technical University</strong>
+- Specialized in **Artificial Intelligence (AI)** and **Machine Learning (ML)**
+- Enthusiastic about **Finance**, **Economics**, and bridging **AI** with **business insights**
+- Experienced in **data analysis**, **predictive modeling**, and **software development**
+- Love exploring complex challenges to create automated, data-driven solutions
+
+## 🔭 Current Focus
+- **Working on:** [Tripletables](a specialized project under development)
+- **Exploring:** Advanced neural network architectures with TensorFlow/Keras, finance-related ML models, and data engineering pipelines
+
+## 💼 Experience
+- **ML & Testing Intern @ Dill [Company] (Summer 2024)**
+  - Optimized neural network architectures using TensorFlow/Keras  
+  - Developed testing frameworks with scikit-learn for performance validation  
+  - Conducted hyperparameter tuning & feature engineering for improved accuracy  
+  - Built automated testing pipelines to ensure robust model performance  
+
+## 🏆 Notable Projects
+1. **Olympiad Preparation Platform**  
+   - *Role:* Project Manager & Back-End Developer  
+   - *Stack:* React, Django, PostgreSQL, TensorFlow  
+   - Managed a team of seven to build an ML-driven platform providing personalized study paths  
+
+2. **Stock Market Viewer Website**  
+   - *Role:* Full-Stack Developer  
+   - *Stack:* Django, PostgreSQL, REST APIs  
+   - Created a real-time tracker for Borsa Istanbul stocks with integrated portfolio management  
+
+3. **License Plate Recognition**  
+   - *Role:* AI/ML Developer  
+   - *Stack:* Python, TensorFlow/PyTorch, OpenCV  
+   - Achieved **98% accuracy** on a dataset of 4,000+ images with robust preprocessing pipelines  
+
+## 🔧 Languages & Tools
+<p>
+  <!-- Add or remove icons according to your skill set -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</p>
+
+
+## 🤝 Let’s Connect
+- **Email:** [huseynove21@itu.edu.tr](mailto:huseynove21@itu.edu.tr)  
+- **LinkedIn:** [emil-huseynov-20b431220](https://www.linkedin.com/in/emil-huseynov-20b431220/)  
+- **GitHub:** [@ehuseynov](https://github.com/ehuseynov)  
+- **Instagram:** [@emil.huseyn](https://instagram.com/emil.huseyn)  
+
+---
+<p align="center">
+  <i>"Striving to fuse my passion for technology and data-driven innovation to shape a smarter, more efficient future."</i>
+</p>
